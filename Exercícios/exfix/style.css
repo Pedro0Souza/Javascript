@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(50, 179, 205);
+    font-size: 18px;
+}
+
+main{
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 10px;
+    padding: 5px;
+    margin: auto;
+    width: 600px;
+    height: auto;
+}
+
+main > h1{
+    padding: 5px;
+    font-family: "Baskervville SC", serif;
+}
